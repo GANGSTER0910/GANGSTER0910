@@ -1,13 +1,13 @@
 
 <h1 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=4000&color=0000FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harsh Panchal+%F0%9F%91%8B"/></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=4000&color=0000FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harsh+Panchal+%F0%9F%91%8B"/></a>
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GANGSTER0910&label=Profile%20Views&color=blue&style=plastic"/>
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="Left">🏆 Achievements</h2>
 <p align="Justify-center">
 🥈 2nd Place at <strong>ISEC Data Science Challenge 2025</strong><br/>
   🥈 2nd Place at <strong>TicTechToe</strong><br/>
@@ -16,12 +16,12 @@
   🎖 <strong>Postman API Fundamentals Student Expert</strong>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="Left">🚀 About Me</h2>
 <p align="Justify-center">
 I'm a passionate <strong>Backend Developer</strong> and <strong>AI/ML Enthusiast</strong> with experience in building scalable applications using <strong>FastAPI, Node.js, MongoDB, and React</strong>. I love working on innovative projects, solving complex problems, and contributing to open-source.
 </p>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="Left">🛠 Tech Stack</h2>
 <p align="Justify">
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20JavaScript%7C%20SQL-green?style=for-the-badge&logo=python&logoColor=white"/>
   <br/>
