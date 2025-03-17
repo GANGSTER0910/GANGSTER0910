@@ -48,7 +48,7 @@ I'm a passionate <strong>Backend Developer</strong> and <strong>AI/ML Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://your-portfolio.com" alt="QR Code"/>
+  <img src="https://github.com/GANGSTER0910/GANGSTER0910/blob/main/QR_CODE.png" width=200 alt="QR Code"/>
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="200"/>
   
 </p>
